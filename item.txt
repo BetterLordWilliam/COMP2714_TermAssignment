@@ -1,0 +1,26 @@
+Whiterun,Blade of Whiterun,50.0,150,Badge of office for the Thane of Whiterun.
+Abandoned Prison, Iron Shackles, 2.5, 30, Rusty restraints from a forgotten cell.
+Alftand, Dwemer Cog, 1.8, 45, Salvaged from the ancient dwarven ruins.
+Angis Camp, Hunters Bow, 3.2, 60, Crafted by the skilled archer Angi.
+Anises Cabin, Hagraven Feather, 0.3, 20, A mystical ingredient for dark rituals.
+Arcwind Point, Frost Troll Pelt, 4.0, 70, Trophy from a fierce battle atop the peak.
+Autumnshade Clearing, Moonflower Nectar, 0.1, 10, Glows softly under the moonlight.
+Avanchnzel, Dwarven Centurion Core, 8.5, 120, The heart of an ancient automaton.
+Bannermist Tower, Guard’s Helm, 1.2, 40, Worn by the vigilant tower sentinels.
+Bard’s Leap Summit, Lute Strings, 0.1, 5, Broken strings from a bard’s tragic fall.
+Battle-Born Farm, Wheat Sack, 1.0, 25, Harvested from the fertile fields.
+Bilegulch Mine, Orichalcum Ore, 5.8, 80, Mined deep within the treacherous tunnels.
+Black-Briar Lodge, Velvet Wine Bottle, 1.5, 50, A luxurious vintage from Maven’s cellar.
+Bleak Falls Barrow, Dragonstone Tablet, 3.5, 90, Inscribed with ancient dragon lore.
+Bleakwind Basin, Sabre Cat Claw, 0.4, 30, Extracted from a fearsome predator.
+Blind Cliff Cave, Chaurus Egg Sac, 0.2, 15, Contains wriggling chaurus larvae.
+Bloated Mans Grotto, Spriggan Sap, 0.5, 35, Harvested from the mystical grotto’s trees.
+Bloodlet Throne, Vampire Dust, 0.1, 5, Essence of the undead for dark rituals.
+Blue Palace, Jarls Crown, 2.0, 70, Adorned by the ruler of Solitude.
+Bonestrewn Crest, Mammoth Tusk, 6.2, 100, Ivory harvested from a fallen giant’s beast.
+Boulderfall Cave, Troll Skull, 3.8, 65, Gruesome trophy from a cave-dwelling troll.
+Brandy-Mug Farm, Honey Jar, 0.8, 30, Sweet nectar collected from busy bees.
+Brinewater Grotto, Pearl Oyster, 0.3, 20, Conceals a lustrous pearl within its shell.
+Broken Helm Hollow, Bandit Leaders Dagger, 1.2, 45, Stolen blade from a fallen outlaw chief.
+Broken Limb Camp, Giants Toe, 4.5, 75, Colossal ingredient for alchemical experiments.
+END
