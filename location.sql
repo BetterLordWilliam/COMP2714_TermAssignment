@@ -52,4 +52,5 @@ INSERT INTO location VALUES
 ('Cragslane Cavern'),
 ('Cragwallow Slope'),
 ('Cronvangr Cave'),
-('Crystaldrift Cave');
+('Crystaldrift Cave'),
+('Riften');

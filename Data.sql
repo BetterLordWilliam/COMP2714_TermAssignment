@@ -40,6 +40,17 @@ CREATE TABLE Defensive(
   FOREIGN KEY (effectID) REFERENCES Effect (effectID)
 );
 
+-- Standing_Stone Table
+--
+CREATE TABLE Standing_Stone (
+  stoneName varchar(100),
+  stoneLocation varchar(100), 
+  effectID int,
+  PRIMARY KEY (stoneName, stoneLocation),
+  FOREIGN KEY (stoneLocation) REFERENCES Location (locName),
+  FOREIGN KEY (effectID) REFERENCES Effect (effectID)
+);
+
 -- XX
 
 -- ======================================================

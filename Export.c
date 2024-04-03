@@ -6,9 +6,9 @@ char *tables[] = {
   "item", "spell", "effect", "alteration", "armour", "book", 
   "conjuration", "defensive", "destruction", "food",
   "illusion", "ingredients", "keyitem", "location", "offensive",
-  "potion", "restoration", "scroll", "weapon"
+  "potion", "restoration", "scroll", "weapon", "standing_stone"
 };
-int size = 19;
+int size = 20;
 
 /**
  * main:    contains the logic for exporting the SQL data into csv files
