@@ -5,6 +5,7 @@
   },
   "files.associations": {
     "*.cpp": "cpp",
-    "string.h": "c"
+    "string.h": "c",
+    "stdio.h": "c"
   }
 }
